@@ -1,1 +1,1 @@
-# pictures
+Here only auxiliary pictures
